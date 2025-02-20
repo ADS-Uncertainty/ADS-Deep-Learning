@@ -11,7 +11,7 @@ Deep learning has been widely used in Autonomous Driving Systems (ADS). Though s
 3. [Pictures](https://github.com/ADS-Uncertainty/ADS-Deep-Learning/tree/main/Pic/Figure_5): The complete results of the overlap in highly-uncertain samples identified by MC Dropout and Deep Ensembles under different noise levels.
 
 ## Dependencies
-* First step is to install the dependencies using requirements.txt file
+* Support Python 3.5 and above. For a list of dependencies see requirements.txt
 
   ```python
   pip install -r requirements.txt
