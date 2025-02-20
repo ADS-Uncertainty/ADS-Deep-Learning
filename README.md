@@ -9,6 +9,7 @@ Processes to quantify the corresponding Aleatoric Uncertainty (AU). For Epistemi
 
 ```python
 pip install -r requirements.txt
+'''
 
 ## Data
 * First step is to install the dependencies using requirements.txt file
