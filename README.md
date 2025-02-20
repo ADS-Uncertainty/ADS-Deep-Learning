@@ -12,10 +12,12 @@ Processes to quantify the corresponding Aleatoric Uncertainty (AU). For Epistemi
   ```
 
 ## Data
-* We provide two test sets used in our experiments in [Data](https://github.com/ADS-Uncertainty/ADS-Deep-Learning/tree/main/Data).
-
+1. We provide two test sets used in our experiments in [Data](https://github.com/ADS-Uncertainty/ADS-Deep-Learning/tree/main/Data).
+  * Testset
+  * Car-following testset
 
 ## Usage
-* First step is to install the dependencies using requirements.txt file
+1. Download all the files to the local machine.
+2. 
 
 
