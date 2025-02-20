@@ -12,7 +12,7 @@ Processes to quantify the corresponding Aleatoric Uncertainty (AU). For Epistemi
   ```
 
 ## Data
-* 
+* We provide two test sets used in our experiments in [Data](https://github.com/ADS-Uncertainty/ADS-Deep-Learning/tree/main/Data).
 
 
 ## Usage
