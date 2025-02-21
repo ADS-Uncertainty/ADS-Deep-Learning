@@ -16,6 +16,8 @@ Deep learning has been widely used in Autonomous Driving Systems (ADS). Though s
   ```python
   pip install -r requirements.txt
   ```
+* We recommend using PyCharm software to read and inspect the dataset provided in [Data](https://github.com/ADS-Uncertainty/ADS-Deep-Learning/tree/main/Data).
+
 
 ## Usage
 1. Download all the files to the local machine.
