@@ -9,18 +9,14 @@
 ## Baseline
 1. **LSTM_CSP_model.py**: Model architecture file.
 2. **LSTM_CSP_util.py**: Model parameter file.
-* **Performance_Metrics**: Calculate the basic performance metrics of the model, including: NLL、RMSE、ADE、FDE
-* **UQ_Metrics**:
-* **Safety_Metrics**: 
-
-
-
+* **Performance_Metrics**: Calculate the basic performance metrics of the model, including: NLL、RMSE、ADE and FDE.
+* **UQ_Metrics**: Obtain the basic data for quantifying aleatoric and epistemic uncertainties in LSTM-CSP.
+* **Safety_Metrics**: Calculate the safety metrics of the LSTM-CSP model, including: TET、TIT and CPI.
 
 
 ## Calculation
-
-
+* Calculate the final uncertainty values and the Pearson correlation coefficient between epistemic uncertainty and ADS safety metrics.
 
 ## Highly uncertain samples
-
-
+1. Overlap: First, run `1_Data_Production.py` and `2_Overlap_Calculation.py`, and then calculate the overlap of highly uncertain samples identified by MC Dropout and Deep Ensembles.
+2. Ditribution: Calculate the distribution.
