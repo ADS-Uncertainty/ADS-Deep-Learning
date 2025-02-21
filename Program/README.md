@@ -18,5 +18,5 @@
 * Calculate the final uncertainty values and the Pearson correlation coefficient between epistemic uncertainty and ADS safety metrics.
 
 ## Highly uncertain samples
-1. Overlap: First, run `1_Data_Production.py` and `2_Overlap_Calculation.py`, and then calculate the overlap of highly uncertain samples identified by MC Dropout and Deep Ensembles.
-2. Ditribution: Calculate the distribution.
+1. **Overlap**: First, run `1_Data_Production.py` and `2_Overlap_Calculation.py`, and then calculate the overlap of highly uncertain samples identified by MC Dropout and Deep Ensembles.
+2. **Ditribution**: Calculate the distribution.
